@@ -1,0 +1,7 @@
+.venv/
+.env
+.instagram-session
+__pycache__/
+*.py[cod]
+downloads/
+
